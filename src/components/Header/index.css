@@ -1,0 +1,9 @@
+.logo {
+  max-height: 40px;
+}
+.link {
+  color: #6d396b;
+  text-decoration: none;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
